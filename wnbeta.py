@@ -10,6 +10,8 @@ E  = numpy.e
 VB = 4031
 P  = 2e-6
 
+print("VB =", VB, "P =", P)
+
 def convf(f):
     return f * VB / P
 
