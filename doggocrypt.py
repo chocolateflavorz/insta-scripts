@@ -6,13 +6,6 @@ target_file = "alien.dat"
 doggo_file = "doggo"
 dict_file = "doggo.dict"
 
-def trim(a):
-    r = []
-    for e in a:
-        if e != '':
-            r.append(e)
-    return r
-
 def encrypt():
     doggo_list = [i for i in range(256)]
     random.shuffle(doggo_list)
