@@ -1,9 +1,0 @@
-$a 1
-$a a+1
-$a 7
-$b 11
-$c a + b
-
-$x sqrt(b)
-$y a + b^2
-$i x^2
