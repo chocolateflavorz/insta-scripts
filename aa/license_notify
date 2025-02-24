@@ -1,0 +1,19 @@
+this program uses these libraries. \
+please check these license before using this app.
+
+# codeplea/tinyexpr
+  zlib License
+  Copyright (C) 2015, 2016 Lewis Van Winkle
+  https://github.com/codeplea/tinyexpr/tree/master
+
+-----
+
+# zserge/jsmn(unused)
+  MIT License
+  Copyright (c) 2010 Serge A. Zaitsev
+  https://github.com/zserge/jsmn
+
+# arp242/toml-c(unused) 
+  MIT License
+  Copyright (c) CK Tan
+  https://github.com/cktan/tomlc99

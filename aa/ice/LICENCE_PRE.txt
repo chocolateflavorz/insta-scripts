@@ -1,0 +1,5 @@
+# THIS PROGRAM
+  Unlicense
+# LIBRARY
+  jsmn.h  
+    MIT License

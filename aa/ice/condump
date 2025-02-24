@@ -1,0 +1,35 @@
+OBJ
+STR 'list'
+: ARR
+   - STR 's1'
+
+   - STR 's2'
+
+   - STR 'l'
+
+
+STR 's1'
+: OBJ
+  STR 'ip'
+: STR '192.168.3.202'
+
+  STR 'port'
+: PRI 5025
+
+
+STR 's2'
+: OBJ
+  STR 'ip'
+: STR '192.168.3.202'
+
+  STR 'port'
+: PRI 5026
+
+
+STR 'l'
+: OBJ
+  STR 'ip'
+: STR '192.168.3.201'
+
+  STR 'port'
+: PRI 5025
