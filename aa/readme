@@ -1,0 +1,36 @@
+
+Compile
+    execute ./release.sh
+    then it makes an executables named "invader"
+
+Usage
+    see examples and try with
+
+    ./invader example_1
+    ./invader example_2
+    ...
+
+    or just execute
+
+    ./invader
+
+    and then , type 'h' 
+
+    >h  
+
+    you will get the help messages
+
+
+BUGS AND LIMITATION
+
+    you can use 'loop' statement only if it runs script file. (not directly in shell)
+    
+    you can only use 'a', 'b', 'c', 'f', 'i', 'j', 'x', 'y' as variables,
+        and you MUST use 'f' as a frequency value.
+    
+    please set range_a, range_b , before using 'fetch'.
+
+    
+
+
+    

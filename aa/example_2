@@ -1,0 +1,10 @@
+# LOOP TEST
+
+$f 800e6
+$i 0
+
+
+loop 200
+$i i + 1
+$f f + (i * 1e6)
+endloop 
