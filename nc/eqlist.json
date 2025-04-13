@@ -1,0 +1,23 @@
+{
+    "DPX32_5025": {
+        "type": "sg",
+        "name": "DPX32",
+        "description": "DPX32 port5025",
+        "ip": "192.168.3.202",
+        "port": 5025
+    },
+    "DPX32_5026": {
+        "type": "sg",
+        "name": "DPX32",
+        "description": "DPX32 port5026",
+        "ip": "192.168.3.202",
+        "port": 5026
+    },
+    "LIA": {
+        "type": "lia",
+        "name": "LIA",
+        "description": "LIA",
+        "ip": "192.168.3.201",
+        "port": 5025
+    }
+}

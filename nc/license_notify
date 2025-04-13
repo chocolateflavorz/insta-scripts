@@ -1,0 +1,11 @@
+this program use these libraries /
+
+# arp242/toml-c 
+  MIT License
+  Copyright (c) CK Tan
+  https://github.com/cktan/tomlc99
+
+# codepiea/tinyexpr
+  zlib License
+  Copyright (C) 2015, 2016 Lewis Van Winkle
+  https://github.com/codeplea/tinyexpr/tree/master
